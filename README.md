@@ -11,7 +11,7 @@ Shown below is a summary of short write-ups from support tickets and XP Cyber ch
 | [Printer .PRN issue](write-ups/misconfigured-printer.md) | Printer settings, analyzing configurations | Corrected the port assignment setting and printed a test page to verify clear status |
 | [Websites loading faults](write-ups/proxy-misconfiguration.md) | Network checks, DNS, proxy settings | Corrected a proxy connection setting and tested several websites |
 | [Desktop disk boot error](write-ups/desktop-disk-boot-error.md) | BIOS inspection, HBCD troubleshooting, and Hardware evaluation | Corrected a disk connection by reinserting SATA data cable and verifying boot status |
-| [XP Cyber: Helpdesk Fun: User Login Nightmares](write-ups/xp-cyber-user-login-correction.md) | Ticket prioritization, networking, Windows and Linux support | Addressed account, connectivity, and shared-file issues in a simulated ticket queue |
+| [XP Cyber: Helpdesk Fun: User Login Nightmares](write-ups/xp-cyber-user-login-correction.md) | Ticket urgency, networking, and Windows support | Addressed account, connectivity, and Active Directory issues in a simulated ticket |
 
 ## Executive Project
 
