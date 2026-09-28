@@ -20,7 +20,7 @@ The HDD was detected and normal boot startup was observed on one pass. Succesful
 
 ## Skills in practice
 
-CompTIA A+ concepts: BIOS troubleshooting, HBCD investigation, amd hardware examinations.
+CompTIA A+ concepts: BIOS troubleshooting, HBCD investigation, and hardware examinations.
 
 <details>
 <summary>Framework connections</summary>
