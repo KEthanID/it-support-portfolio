@@ -8,7 +8,7 @@ A user stated that their desktop failed to boot to Windows, despite several rest
 
 ## Investigation
 
-The HDD SATA data cable was disconnected. The HDD wasn't running, which pointed to a boot problem during startup.
+The HDD SATA data cable was disconnected and thus, the BIOS could not succesfully detect initially such during startup.
 
 ## Approach Used
 
@@ -16,7 +16,7 @@ An initial investigation prompted a short, physical interior inspection after th
 
 ## Result
 
-The HDD was detected and normal boot startup was observed on one pass. Succesful Windows desktop login was observed as well, with no symptoms of abnormal hardware performance.
+The HDD was detected and normal boot startup was observed on one pass. Succesful Windows desktop login was observed as well.
 
 ## Skills in practice
 
@@ -29,6 +29,6 @@ CompTIA A+ concepts: BIOS troubleshooting, HBCD investigation, and hardware exam
 | --- | --- |
 | [DoD DCWF](../FRAMEWORK-MAPPINGS.md#dod-dcwf-ksa) | **222B:** used an understanding of computer operation to connect HDD behaivor with startup trouble. |
 | [NICE v2.0.0](../FRAMEWORK-MAPPINGS.md#nice-framework) | **S0488, S0807:** maintained the system and used observed symptoms to solve a hardware problem. |
-| [NCAE-C](../FRAMEWORK-MAPPINGS.md#ncae-c-knowledge-units) | **IT Systems Components:** connected the cooling system's role to reliable computer operation. |
+| [NCAE-C](../FRAMEWORK-MAPPINGS.md#ncae-c-knowledge-units) | **IT Systems Components:** connected the disk's role to reliable computer operation. |
 
 </details>

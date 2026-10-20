@@ -12,7 +12,7 @@ The affected computer used a different printer connection setting, called a port
 
 ## Approach used
 
-Comparing the affected computer with a working one helped me narrow the issue to a local setting. I checked for stuck jobs and configuration differences instead of assuming the printer itself had failed. My instructor confirmed the expected configuration, and I corrected the connection setting.
+Comparing the affected computer with a working one helped me narrow the issue to a local setting. I checked for stuck jobs and configuration differences instead of assuming the printer itself had failed. My instructor confirmed the expected configuration, and I re-assigned the incorrect LOCALPORT/print-to-file destination to a proper WSD port.
 
 ## Result
 

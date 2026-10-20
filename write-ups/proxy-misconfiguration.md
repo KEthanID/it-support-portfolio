@@ -16,11 +16,11 @@ I separated basic network access from the browser-specific web access. The brows
 
 ## Result
 
-I opened several websites that hadn't loaded before; both worked after the change. This reminded me to examine symptoms further with simpler, evidence-supported troubleshooting steps rather than attempting to jump to complex-level exmainations of severe symptoms with terminal usage.
+I opened one website that hadn't loaded before; it worked after the change. This reminded me to examine symptoms firstly with simpler, evidence-supported troubleshooting steps rather than attempting to jump to complex-level exmainations for severe symptoms with terminal usage.
 
 ## Skills in practice
 
-CompTIA A+ concepts: network troubleshooting, DNS checks, and proxy settings.
+CompTIA A+ concepts: network troubleshooting and proxy settings.
 
 <details>
 <summary>Framework connections</summary>
