@@ -1,3 +1,11 @@
+---
+
+layout: default
+
+title: Desktop RAM Boot Issue
+
+---
+
 # Desktop RAM Boot Issue
 
 **Setting:** HP Desktop IT Supervised Support Simulation - RAM Hardware Issue
