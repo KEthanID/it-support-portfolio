@@ -1,3 +1,11 @@
+---
+
+layout: default
+
+title: XP Cyber: Helpdesk Fun: User Login Nightmares
+
+---
+
 # XP Cyber: Helpdesk Fun: User Login Nightmares
 
 **Setting:** XP Cyber Challenge simulation
