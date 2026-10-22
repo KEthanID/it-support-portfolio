@@ -1,3 +1,11 @@
+---
+
+layout: default
+
+title: Printer .PRN issue
+
+---
+
 # Printer .PRN issue
 
 **Setting:** Windows 11 IT Supervised Support Simulation - Printer Port Issue
