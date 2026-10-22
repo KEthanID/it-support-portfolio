@@ -1,3 +1,11 @@
+---
+
+layout: default
+
+title: Desktop disk boot error
+
+---
+
 # Desktop disk boot error
 
 **Setting:** HP BIOS, HBCD, and Hardware IT Supervised Support Simulation - Boot Error
