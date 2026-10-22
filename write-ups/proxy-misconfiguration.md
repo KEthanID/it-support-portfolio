@@ -1,3 +1,11 @@
+---
+
+layout: default
+
+title: Websites loading faults
+
+---
+
 # Websites loading faults
 
 **Setting:** Windows 11 IT Supervised Support Simulation - Website Connection Errors
