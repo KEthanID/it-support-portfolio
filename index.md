@@ -1,8 +1,8 @@
---- 
+---
 
-layout: default 
+layout: default
 
-title: Ethan Kirkman | IT Support Portfolio 
+title: Ethan Kirkman | IT Support Portfolio
 
 ---
 
