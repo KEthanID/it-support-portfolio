@@ -1,3 +1,11 @@
+--- 
+
+layout: default 
+
+title: Ethan Kirkman | IT Support Portfolio 
+
+---
+
 # Ethan Kirkman
 
 **Entry-Level IT Support | San Diego, CA 92130 | 619-651-3178 idethankirkman@gmail.com**
